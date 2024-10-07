@@ -1,5 +1,4 @@
 # Building a dashboard with IBM Cognos Analytics
-In this assignment, you will create some visualizations and add them to dashboards using IBM Cognos Analytics.
 
 ## Dataset Used in this Assignment
 The dataset you are going to use in this assignment comes from the following source: 
@@ -53,7 +52,7 @@ https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-r
       * Visualize as a Hierarchy bubble chart.
       * Utilize Bubbles, Size, Color fields of Hierarchy bubble chart.
       * Include a proper Chart title.
-     
+
 4. On the Future Technology Trend dashboard tab, use the data asset ```m5_survey_data_technologies_normalised.csv```  and capture the following metrics as visualizations:
 
     * In the first rectangle (Panel 1):
